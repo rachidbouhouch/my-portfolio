@@ -1,0 +1,47 @@
+#root {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.image-gradient {
+  mask-image: linear-gradient(
+    to left,
+    hsl(0 90% 0% / 0),
+    hsl(0 90% 0% / 1) 10%,
+    hsl(0 90% 0% / 1) 90%,
+    hsl(0 90% 0% / 0)
+  );
+}
+
+.button-top {
+  position: fixed;
+  bottom: 50px;
+  right: 20px;
+  padding: 5px;
+  border-radius: 50%;
+  font-size: 40px;
+  cursor: pointer;
+  background: #141c2f;
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(255, 128, 181, 1) 0%,
+    rgba(144, 137, 252, 1) 100%
+  );
+}
+
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #141c2f;
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(255, 128, 181, 1) 0%,
+    rgba(144, 137, 252, 1) 100%
+  );
+  border-radius: 50px;
+}
