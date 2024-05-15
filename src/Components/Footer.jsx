@@ -1,7 +1,5 @@
-import React from "react";
 import { BsGithub } from "react-icons/bs";
 import { BsLinkedin } from "react-icons/bs";
-import { BsTwitterX } from "react-icons/bs";
 
 const Footer = () => {
   return (

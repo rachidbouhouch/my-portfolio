@@ -1,7 +1,5 @@
-import React from "react";
 import { BsGithub } from "react-icons/bs";
 import { BsGlobe } from "react-icons/bs";
-import ComingSoon from "../assets/coming-soon.jpg";
 
 const Projects = () => {
   return (
