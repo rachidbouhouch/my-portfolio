@@ -23,7 +23,7 @@ const Hero = () => {
         <div className="mx-auto max-w-2xl py-44 sm:py-48 text-gray-100">
           <div className="hidden sm:mb-8 sm:flex sm:justify-center">
             <div className="relative rounded-full px-3 py-1 text-sm leading-6 ring-1 ring-gray-100/10 hover:ring-gray-100/20">
-            👋 Hello, I'm
+            👋 Hello, I{"'"}m
             </div>
           </div>
           <div className="text-center">
