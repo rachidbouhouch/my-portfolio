@@ -34,7 +34,7 @@ const Hero = () => {
                Full Stack Developer 
             </h3>
             <p className="mt-6 text-gray-300 text-md leading-8">
-            From Morocco 🇲🇦. I{"'"}ve been creating on the web for around 5 years, mainly Spring and Angular. I’m passionate about turning bright, creative ideas into high quality software.
+            From Morocco 🇲🇦. I{"'"}ve been creating on the web for around 2 years, mainly Spring and Angular or React. I’m passionate about turning bright, creative ideas into high quality software.
 
             </p>
             <div className="mt-10 flex items-center justify-center gap-x-6">

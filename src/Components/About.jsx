@@ -1,4 +1,3 @@
-import React from "react";
 import resumePdf from "../assets/RACHID_BOUHOUCH_FULLSTACK.pdf";
 
 const About = () => {
@@ -11,14 +10,12 @@ const About = () => {
               About me
             </h1>
             <p className="mt-6 text-gray-300 text-md leading-8">
-            I’m a super curious guy who enjoys the process of learning new things. I like writing code especially in Javascript and React. Fast learner and obsessed with details and quality, I am mostly self-taught, and always keeping up with new technologies.
+            I’m a super curious guy who enjoys the process of learning new things. I like writing code especially in Java and Javascript. Fast learner and obsessed with details and quality, I am mostly self-taught, and always keeping up with new technologies.
             </p>
             <p className="mt-2 text-gray-300 text-md leading-8">
-            So I'm looking for an opportunity to develop my skills, be team-oriented, and have a happy workplace, If you are interested in hiring a Full Stack developer (Spring/Angular or React), you are in the right place. <a href="#contact" className="text-gray-500 font-bold">Get in touch</a> to discuss.
+            So I{"'"}m looking for an opportunity to develop my skills, be team-oriented, and have a happy workplace, If you are interested in hiring a Full Stack developer (Spring/Angular or React), you are in the right place. <a href="#contact" className="text-gray-500 font-bold">Get in touch</a>.
             </p>
-            <p className="mt-2 text-gray-300 text-md leading-8">
-            If you have any questions or comments feel free to email me at <a className="text-gray-500 font-bold" >my Email</a>.
-            </p>
+        
             <div className="hidden sm:mb-8 sm:flex mt-2">
               <div className="relative rounded-full px-4 py-1 text-sm leading-6 ring-1 ring-gray-100/10 hover:ring-gray-100/20">
                 <a
